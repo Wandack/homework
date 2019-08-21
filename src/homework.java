@@ -1,5 +1,5 @@
 public class homework {
     public static void main(String[] args) {
-        System.out.println("My Homework, really ");
+        System.out.println("My Homework, really!");
     }
 }
